@@ -1,2 +1,2 @@
 # atividadee
-atividade de servidores git
+atividade de servidores git pratica
